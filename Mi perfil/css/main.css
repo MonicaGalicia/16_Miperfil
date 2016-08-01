@@ -1,0 +1,96 @@
+/* Inserta tu CSS aqui */
+
+.fondo{
+	background-image:url(../images/background.jpg);
+	background-size:100%;
+	height:500px;
+	background-repeat:no-repeat;
+}
+
+li{
+	display:inline-block;
+	list-style: none;
+	margin:70px 20px 20px 0px;
+	text-align:center
+
+}
+
+a li{
+	color:black;
+}
+
+#center{
+	margin-left:300px;
+}
+#logo{
+	margin:25px;
+	position:relative;
+	left:600px;
+}
+
+h1{
+	
+	font-size:35px;
+	font-family:Arial;
+	
+}
+
+h1, h3{
+	text-align:center;
+	margin:30px;
+	color:white;
+}
+
+h3{
+   font-family:monospace; 
+}
+
+.about{
+	text-align:center;
+	color:purple;
+	margin-top:20px;
+}
+
+p{
+	text-align:justify;
+	margin-top:20px;
+}
+
+#moni{
+	height:170px;
+	width:170px;
+	border-radius:5px;
+	border:ridge;
+}
+
+.favoritos{
+	height:170px;
+	width:170px;
+	border-radius:100%;
+	margin-top:40px;
+
+
+}
+
+footer{
+	background-image:url(../images/tile2.png);
+	margin-top:50px;
+}
+
+.redes{
+	margin:25px;
+	height:100px;
+	width:100px;
+
+}
+
+#personalfon{
+	background-image:url(../images/tile1.png);
+
+}
+
+#info{
+	text-align:justify; 
+	font-size:15px;
+	font-family:Times;
+}
